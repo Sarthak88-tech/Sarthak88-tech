@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Breast cancer prediction**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Deep learning & OS**
 
 - 👯 I’m interested in contributing to **open source**
 
