@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak88-tech&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak88-tech" /> </p>
 
-- 🔭 I’m currently working on **Breast cancer prediction**
+- 🔭 I’m currently working on **Parkinson's disease detection**
 
 - 🌱 I’m currently learning **Deep learning & OS**
 
