@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C++, Python, HTML, CSS, ML**
 
-- 📫 How to reach me **sarthakwakchaure88@gmail.com**
+- 📫 Reach out to me at **sarthakwakchaure88@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Zd1BbfbaNhs7izu6ETOMLWcHuFLOMI_h/view?usp=sharing](https://drive.google.com/file/d/1Zd1BbfbaNhs7izu6ETOMLWcHuFLOMI_h/view?usp=sharing)
 
