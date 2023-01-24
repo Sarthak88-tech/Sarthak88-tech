@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Wakchaure</h1>
-<h3 align="center">Machine learning | Coding Enthusiast | Front end developer | Microsoft Azure | Competitive Programming</h3>
+<h3 align="center">Machine learning | Coding Enthusiast | Web Developer | Microsoft Azure | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak88-tech&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak88-tech" /> </p>
 
