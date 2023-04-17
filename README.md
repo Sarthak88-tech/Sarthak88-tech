@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Parkinson's disease detection**
 
-- 🌱 I’m currently learning **Deep learning & OS**
+- 🌱 I’m currently learning **Web Scraping**
 
 - 👯 I’m interested in contributing to **open source**
 
